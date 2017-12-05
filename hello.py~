@@ -5,8 +5,10 @@ from flask import request
 from flask import session
 from flask import render_template
 from flask import redirect
+import numpy as np
+import pandas as pd
 #from model import db, Article, User
-
+import os
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = \
@@ -24,13 +26,39 @@ except ImportError:
 # finished helloworld.py
 @app.route('/')
 def list():
-#    articles = Article.query.order_by('id desc') \
-#        .filter_by(is_deleted=False).all()
-#    for article in articles:
-#        article.time = datetime.datetime \
-#            .fromtimestamp(article.time).isoformat()
-#    return render_template('index_n.html', articles=articles)
-    return render_template('index_n.html')
+    return render_template('index.html')
+
+
+@app.route('/attribute_cars', methods=['POST'])
+def show_dream_cars():
+    cars = pd.read_csv("static/recommend_result.csv")
+    categories = request.form.getlist('form-control-select')
+    if len(categories) == 2:
+        category_w = "#".join(str(x) for x in categories)
+        cars_2_cate = cars.loc[16:len(cars)-6]
+        car_recmd = cars_2_cate.loc[cars_2_cate['Category'] == category_w]
+    elif len(categories) == 1:
+        cars_1_cate = cars.loc[:15]
+        category_w = categories[0]
+        car_recmd = cars_1_cate.loc[cars_1_cate['Category'] == category_w]
+    else:
+        return "No category or too many category selected"
+
+    return render_template('attribute_cars.html', categories=categories, cars=car_recmd.values[0])
+
+@app.route('/compare_cars/', methods=['POST'])
+def show_other_cars():
+    car = request.form['car']
+    return render_template(url_for('static', filename='recommend_result.csv'), cars=car)
+
+
+
+
+
+
+
+
+
 
 
 @app.route('/hello/<name>')
@@ -132,4 +160,4 @@ def logout():
 
 if __name__ == '__main__':
     app.run()
-# do not append anything here
+# do not append anything herePOST'

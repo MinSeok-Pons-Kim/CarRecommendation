@@ -58,7 +58,7 @@
                         <option value="antique">antique</option>
                         <option value="sporty">sporty</option>
                         <option value="compact">compact</option>
-                        <option value="high-tech">high-tech</option>
+                        <option value="high_tech">high_tech</option>
                         <option value="interior">interior</option>
                         <option value="exterior">exterior</option>
                         <option value="storage">storage</option>
