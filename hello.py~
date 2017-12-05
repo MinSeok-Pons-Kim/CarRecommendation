@@ -46,11 +46,19 @@ def show_dream_cars():
 
     return render_template('attribute_cars.html', categories=categories, cars=car_recmd.values[0][1:])
 
-@app.route('/compare_cars/', methods=['POST'])
+@app.route('/compare_cars', methods=['POST'])
 def show_other_cars():
     car = request.form['car']
+    cars = pd.read_csv("static/similar_car_result.csv")
+    cars = cars.loc[cars['Car'] == car]
 
-    return render_template(url_for('static', filename='recommend_result.csv'), cars=car)
+    categories = pd.read_csv("static/common_aspect_result.csv")
+    categories = categories.loc[categories['Car'] == car]
+
+    return render_template('compare_cars.html',
+                            cars=cars.values[0][1:],
+                            categories=categories.values[0][1:],
+                            car=car)
 
 
 

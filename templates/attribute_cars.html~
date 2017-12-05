@@ -61,7 +61,7 @@
         {% for car in cars %}
           <div class="col-lg-4">
             <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-              <img class="img-fluid rounded-0 mb-3 m-auto"  src="static/img/car/{{ car }}.jpg" alt="Car image not found" onerror="this.onerror=null;this.src='static/img/car/default.jpg'">
+              <img class="img-fluid rounded-0 mb-3"  src="static/img/car/{{ car }}.jpg" alt="Car image not found" onerror="this.onerror=null;this.src='static/img/car/default.jpg'">
               <h5>{{ car }} </h5>
             </div>
           </div>
@@ -124,29 +124,6 @@
     <script src="/static/vendor/jquery/jquery.min.js"></script>
     <script src="/static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="/static/vendor/jquery/trial.min.js"></script>
-
-<script type="text/javascript">
-$(function() {
-    $('.multiselect-ui').multiselect({
-        includeSelectAllOption: true
-    });
-});
-
-$(document).ready(function() {
-
-  var last_valid_selection = null;
-
-  $('#form-control-select').change(function(event) {
-
-    if ($(this).val().length > 2) {
-
-      $(this).val(last_valid_selection);
-    } else {
-      last_valid_selection = $(this).val();
-    }
-  });
-});
-</script>
 
   </body>
 

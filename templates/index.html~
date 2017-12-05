@@ -167,7 +167,7 @@
                 <div class="col-12 col-md-9 mb-2 mb-md-0">
 
                   <div class="dropdown">
-                    <select name="comparison"   class="form-control" >
+                    <select name="comparison" class="form-control" >
                         <option value="Toyota_Mirai">Toyota_Mirai</option>
                         <option value="alfa romeo 147">alfa romeo 147</option>
                         <option value="Mazda5">Mazda5</option>

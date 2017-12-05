@@ -12,8 +12,8 @@ sporty,audi s8,alpina b4,Mercedes_GL-Class,Nissan_Qashqai+2,jaguar xj,aston mart
 compact,RollsRoyce_Phantom,audi s6,Nissan_370Z,alpina b4,Volvo_S60,chevrolet cruze,Mercedes_R-Class
 expensive,RollsRoyce_Phantom,Lexus_LC,audi s6,Mazda5,Mazda_CX-7,Mercedes_M-Class,Mazda3
 high-tech,jeep wrangler,Mazda_CX-7,Maserati_GranCabrio,Mercedes_M-Class,RollsRoyce_Phantom,Mercedes_R-Class,chevrolet spark
-interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
+interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
 storage,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
 safety#luxury,Mazda_CX-7,Mercedes_GL-Class,audi rs7,audi a8,audi sq5,alfa romeo gt,audi s8
 safety#cozy,Mazda_CX-7,audi s8,Mercedes_SLS_AMG,audi s3,Mercedes_CL-Class,RollsRoyce_Phantom,alfa romeo brera
@@ -27,8 +27,8 @@ safety#sporty,audi s8,alpina b4,Mercedes_GL-Class,Nissan_Qashqai+2,jaguar xj,ast
 safety#compact,RollsRoyce_Phantom,audi s6,Nissan_370Z,alpina b4,Volvo_S60,chevrolet cruze,Mercedes_R-Class
 safety#expensive,RollsRoyce_Phantom,Lexus_LC,audi s6,Mazda5,Mazda_CX-7,Mercedes_M-Class,Mazda3
 safety#high-tech,jeep wrangler,Mazda_CX-7,Maserati_GranCabrio,Mercedes_M-Class,RollsRoyce_Phantom,Mercedes_R-Class,chevrolet spark
-safety#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-safety#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
+safety#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+safety#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
 safety#storage,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
 luxury#safety,Mazda_CX-7,Mercedes_GL-Class,audi rs7,audi a8,audi sq5,alfa romeo gt,audi s8
 luxury#cozy,Mazda_CX-7,audi s8,Mercedes_SLS_AMG,audi s3,Mercedes_CL-Class,RollsRoyce_Phantom,alfa romeo brera
@@ -42,8 +42,8 @@ luxury#sporty,audi s8,alpina b4,Mercedes_GL-Class,Nissan_Qashqai+2,jaguar xj,ast
 luxury#compact,RollsRoyce_Phantom,audi s6,Nissan_370Z,alpina b4,Volvo_S60,chevrolet cruze,Mercedes_R-Class
 luxury#expensive,RollsRoyce_Phantom,Lexus_LC,audi s6,Mazda5,Mazda_CX-7,Mercedes_M-Class,Mazda3
 luxury#high-tech,jeep wrangler,Mazda_CX-7,Maserati_GranCabrio,Mercedes_M-Class,RollsRoyce_Phantom,Mercedes_R-Class,chevrolet spark
-luxury#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-luxury#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
+luxury#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+luxury#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
 luxury#storage,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
 cozy#safety,Mazda_CX-7,audi s8,Mercedes_SLS_AMG,audi s3,Mercedes_CL-Class,RollsRoyce_Phantom,alfa romeo brera
 cozy#luxury,Mazda_CX-7,audi s8,Mercedes_SLS_AMG,audi s3,Mercedes_CL-Class,RollsRoyce_Phantom,alfa romeo brera
@@ -57,8 +57,8 @@ cozy#sporty,audi s8,alpina b4,Mercedes_GL-Class,Nissan_Qashqai+2,jaguar xj,aston
 cozy#compact,RollsRoyce_Phantom,audi s6,Nissan_370Z,alpina b4,Volvo_S60,chevrolet cruze,Mercedes_R-Class
 cozy#expensive,RollsRoyce_Phantom,Lexus_LC,audi s6,Mazda5,Mazda_CX-7,Mercedes_M-Class,Mazda3
 cozy#high-tech,jeep wrangler,Mazda_CX-7,Maserati_GranCabrio,Mercedes_M-Class,RollsRoyce_Phantom,Mercedes_R-Class,chevrolet spark
-cozy#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-cozy#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
+cozy#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+cozy#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
 cozy#storage,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
 economic#safety,RollsRoyce_Phantom,audi s6,Lexus_LC,Mazda3,Mercedes_GL-Class,Mazda_CX-7,Mercedes_S-Class
 economic#luxury,RollsRoyce_Phantom,audi s6,Lexus_LC,Mazda3,Mercedes_GL-Class,Mazda_CX-7,Mercedes_S-Class
@@ -72,8 +72,8 @@ economic#sporty,audi s8,alpina b4,Mercedes_GL-Class,Nissan_Qashqai+2,jaguar xj,a
 economic#compact,RollsRoyce_Phantom,audi s6,Nissan_370Z,alpina b4,Volvo_S60,chevrolet cruze,Mercedes_R-Class
 economic#expensive,RollsRoyce_Phantom,Lexus_LC,audi s6,Mazda5,Mazda_CX-7,Mercedes_M-Class,Mazda3
 economic#high-tech,jeep wrangler,Mazda_CX-7,Maserati_GranCabrio,Mercedes_M-Class,RollsRoyce_Phantom,Mercedes_R-Class,chevrolet spark
-economic#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-economic#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
+economic#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+economic#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
 economic#storage,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
 performance#safety,audi s6,jaguar xj,Volvo_S60,Mercedes_S-Class,RollsRoyce_Phantom,honda civic,Mercedes_CLS
 performance#luxury,audi s6,jaguar xj,Volvo_S60,Mercedes_S-Class,RollsRoyce_Phantom,honda civic,Mercedes_CLS
@@ -87,8 +87,8 @@ performance#sporty,audi s8,alpina b4,Mercedes_GL-Class,Nissan_Qashqai+2,jaguar x
 performance#compact,RollsRoyce_Phantom,audi s6,Nissan_370Z,alpina b4,Volvo_S60,chevrolet cruze,Mercedes_R-Class
 performance#expensive,RollsRoyce_Phantom,Lexus_LC,audi s6,Mazda5,Mazda_CX-7,Mercedes_M-Class,Mazda3
 performance#high-tech,jeep wrangler,Mazda_CX-7,Maserati_GranCabrio,Mercedes_M-Class,RollsRoyce_Phantom,Mercedes_R-Class,chevrolet spark
-performance#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-performance#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
+performance#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+performance#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
 performance#storage,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
 mileage#safety,RollsRoyce_Phantom,audi s6,Mazda_CX-7,alfa romeo 159,Lexus_LC,Volvo_C70,aston martin v12 vantage
 mileage#luxury,RollsRoyce_Phantom,audi s6,Mazda_CX-7,alfa romeo 159,Lexus_LC,Volvo_C70,aston martin v12 vantage
@@ -102,8 +102,8 @@ mileage#sporty,audi s8,alpina b4,Mercedes_GL-Class,Nissan_Qashqai+2,jaguar xj,as
 mileage#compact,RollsRoyce_Phantom,audi s6,Nissan_370Z,alpina b4,Volvo_S60,chevrolet cruze,Mercedes_R-Class
 mileage#expensive,RollsRoyce_Phantom,Lexus_LC,audi s6,Mazda5,Mazda_CX-7,Mercedes_M-Class,Mazda3
 mileage#high-tech,jeep wrangler,Mazda_CX-7,Maserati_GranCabrio,Mercedes_M-Class,RollsRoyce_Phantom,Mercedes_R-Class,chevrolet spark
-mileage#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-mileage#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
+mileage#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+mileage#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
 mileage#storage,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
 modern#safety,audi s8,Mercedes_SLS_AMG,abarth 124,Nissan_Juke,audi s3,audi a8,Mazda2
 modern#luxury,audi s8,Mercedes_SLS_AMG,abarth 124,Nissan_Juke,audi s3,audi a8,Mazda2
@@ -117,8 +117,8 @@ modern#sporty,audi s8,alpina b4,Mercedes_GL-Class,Nissan_Qashqai+2,jaguar xj,ast
 modern#compact,RollsRoyce_Phantom,audi s6,Nissan_370Z,alpina b4,Volvo_S60,chevrolet cruze,Mercedes_R-Class
 modern#expensive,RollsRoyce_Phantom,Lexus_LC,audi s6,Mazda5,Mazda_CX-7,Mercedes_M-Class,Mazda3
 modern#high-tech,jeep wrangler,Mazda_CX-7,Maserati_GranCabrio,Mercedes_M-Class,RollsRoyce_Phantom,Mercedes_R-Class,chevrolet spark
-modern#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-modern#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
+modern#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+modern#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
 modern#storage,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
 family#safety,Mercedes_E-Class,Volkswagen_Golf,audi rs7,Nissan_370Z,bmw 3series,Mercedes_M-Class,Mercedes_V-Class
 family#luxury,Mercedes_E-Class,Volkswagen_Golf,audi rs7,Nissan_370Z,bmw 3series,Mercedes_M-Class,Mercedes_V-Class
@@ -132,8 +132,8 @@ family#sporty,audi s8,alpina b4,Mercedes_GL-Class,Nissan_Qashqai+2,jaguar xj,ast
 family#compact,RollsRoyce_Phantom,audi s6,Nissan_370Z,alpina b4,Volvo_S60,chevrolet cruze,Mercedes_R-Class
 family#expensive,RollsRoyce_Phantom,Lexus_LC,audi s6,Mazda5,Mazda_CX-7,Mercedes_M-Class,Mazda3
 family#high-tech,jeep wrangler,Mazda_CX-7,Maserati_GranCabrio,Mercedes_M-Class,RollsRoyce_Phantom,Mercedes_R-Class,chevrolet spark
-family#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-family#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
+family#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+family#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
 family#storage,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
 antique#safety,Mercedes_M-Class,Mazda5,bentley flying spur,Mazda3,Mercedes_S-Class,RollsRoyce_Phantom,audi rs7
 antique#luxury,Mercedes_M-Class,Mazda5,bentley flying spur,Mazda3,Mercedes_S-Class,RollsRoyce_Phantom,audi rs7
@@ -147,8 +147,8 @@ antique#sporty,audi s8,alpina b4,Mercedes_GL-Class,Nissan_Qashqai+2,jaguar xj,as
 antique#compact,RollsRoyce_Phantom,audi s6,Nissan_370Z,alpina b4,Volvo_S60,chevrolet cruze,Mercedes_R-Class
 antique#expensive,RollsRoyce_Phantom,Lexus_LC,audi s6,Mazda5,Mazda_CX-7,Mercedes_M-Class,Mazda3
 antique#high-tech,jeep wrangler,Mazda_CX-7,Maserati_GranCabrio,Mercedes_M-Class,RollsRoyce_Phantom,Mercedes_R-Class,chevrolet spark
-antique#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-antique#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
+antique#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+antique#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
 antique#storage,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
 sporty#safety,audi s8,alpina b4,Mercedes_GL-Class,Nissan_Qashqai+2,jaguar xj,aston martin vanquish,alfa romeo 159
 sporty#luxury,audi s8,alpina b4,Mercedes_GL-Class,Nissan_Qashqai+2,jaguar xj,aston martin vanquish,alfa romeo 159
@@ -162,8 +162,8 @@ sporty#antique,audi s8,alpina b4,Mercedes_GL-Class,Nissan_Qashqai+2,jaguar xj,as
 sporty#compact,RollsRoyce_Phantom,audi s6,Nissan_370Z,alpina b4,Volvo_S60,chevrolet cruze,Mercedes_R-Class
 sporty#expensive,RollsRoyce_Phantom,Lexus_LC,audi s6,Mazda5,Mazda_CX-7,Mercedes_M-Class,Mazda3
 sporty#high-tech,jeep wrangler,Mazda_CX-7,Maserati_GranCabrio,Mercedes_M-Class,RollsRoyce_Phantom,Mercedes_R-Class,chevrolet spark
-sporty#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-sporty#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
+sporty#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+sporty#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
 sporty#storage,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
 compact#safety,RollsRoyce_Phantom,audi s6,Nissan_370Z,alpina b4,Volvo_S60,chevrolet cruze,Mercedes_R-Class
 compact#luxury,RollsRoyce_Phantom,audi s6,Nissan_370Z,alpina b4,Volvo_S60,chevrolet cruze,Mercedes_R-Class
@@ -177,8 +177,8 @@ compact#antique,RollsRoyce_Phantom,audi s6,Nissan_370Z,alpina b4,Volvo_S60,chevr
 compact#sporty,RollsRoyce_Phantom,audi s6,Nissan_370Z,alpina b4,Volvo_S60,chevrolet cruze,Mercedes_R-Class
 compact#expensive,RollsRoyce_Phantom,Lexus_LC,audi s6,Mazda5,Mazda_CX-7,Mercedes_M-Class,Mazda3
 compact#high-tech,jeep wrangler,Mazda_CX-7,Maserati_GranCabrio,Mercedes_M-Class,RollsRoyce_Phantom,Mercedes_R-Class,chevrolet spark
-compact#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-compact#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
+compact#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+compact#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
 compact#storage,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
 expensive#safety,RollsRoyce_Phantom,Lexus_LC,audi s6,Mazda5,Mazda_CX-7,Mercedes_M-Class,Mazda3
 expensive#luxury,RollsRoyce_Phantom,Lexus_LC,audi s6,Mazda5,Mazda_CX-7,Mercedes_M-Class,Mazda3
@@ -192,8 +192,8 @@ expensive#antique,RollsRoyce_Phantom,Lexus_LC,audi s6,Mazda5,Mazda_CX-7,Mercedes
 expensive#sporty,RollsRoyce_Phantom,Lexus_LC,audi s6,Mazda5,Mazda_CX-7,Mercedes_M-Class,Mazda3
 expensive#compact,RollsRoyce_Phantom,Lexus_LC,audi s6,Mazda5,Mazda_CX-7,Mercedes_M-Class,Mazda3
 expensive#high-tech,jeep wrangler,Mazda_CX-7,Maserati_GranCabrio,Mercedes_M-Class,RollsRoyce_Phantom,Mercedes_R-Class,chevrolet spark
-expensive#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-expensive#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
+expensive#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+expensive#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
 expensive#storage,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
 high-tech#safety,jeep wrangler,Mazda_CX-7,Maserati_GranCabrio,Mercedes_M-Class,RollsRoyce_Phantom,Mercedes_R-Class,chevrolet spark
 high-tech#luxury,jeep wrangler,Mazda_CX-7,Maserati_GranCabrio,Mercedes_M-Class,RollsRoyce_Phantom,Mercedes_R-Class,chevrolet spark
@@ -207,38 +207,38 @@ high-tech#antique,jeep wrangler,Mazda_CX-7,Maserati_GranCabrio,Mercedes_M-Class,
 high-tech#sporty,jeep wrangler,Mazda_CX-7,Maserati_GranCabrio,Mercedes_M-Class,RollsRoyce_Phantom,Mercedes_R-Class,chevrolet spark
 high-tech#compact,jeep wrangler,Mazda_CX-7,Maserati_GranCabrio,Mercedes_M-Class,RollsRoyce_Phantom,Mercedes_R-Class,chevrolet spark
 high-tech#expensive,jeep wrangler,Mazda_CX-7,Maserati_GranCabrio,Mercedes_M-Class,RollsRoyce_Phantom,Mercedes_R-Class,chevrolet spark
-high-tech#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-high-tech#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
+high-tech#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+high-tech#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
 high-tech#storage,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
-interior#safety,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-interior#luxury,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-interior#cozy,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-interior#economic,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-interior#performance,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-interior#mileage,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-interior#modern,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-interior#family,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-interior#antique,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-interior#sporty,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-interior#compact,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-interior#expensive,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-interior#high-tech,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-interior#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
+interior#safety,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+interior#luxury,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+interior#cozy,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+interior#economic,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+interior#performance,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+interior#mileage,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+interior#modern,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+interior#family,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+interior#antique,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+interior#sporty,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+interior#compact,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+interior#expensive,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+interior#high-tech,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+interior#exterior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
 interior#storage,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
-exterior#safety,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
-exterior#luxury,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
-exterior#cozy,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
-exterior#economic,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
-exterior#performance,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
-exterior#mileage,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
-exterior#modern,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
-exterior#family,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
-exterior#antique,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
-exterior#sporty,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
-exterior#compact,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
-exterior#expensive,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
-exterior#high-tech,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
-exterior#interior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,sudi s1,Mercedes_AMG_GT,audi a8
+exterior#safety,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
+exterior#luxury,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
+exterior#cozy,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
+exterior#economic,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
+exterior#performance,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
+exterior#mileage,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
+exterior#modern,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
+exterior#family,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
+exterior#antique,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
+exterior#sporty,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
+exterior#compact,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
+exterior#expensive,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
+exterior#high-tech,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
+exterior#interior,kia niro,RollsRoyce_Phantom,bmw 3series,Toyota_Mirai,audi s1,Mercedes_AMG_GT,audi a8
 exterior#storage,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
 storage#safety,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
 storage#luxury,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
@@ -255,8 +255,8 @@ storage#expensive,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virag
 storage#high-tech,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
 storage#interior,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
 storage#exterior,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
-mileage#compact#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
-luxury#high-tech#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,sudi s1,Mercedes_AMG_GT
+mileage#compact#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
+luxury#high-tech#interior,kia niro,Toyota_Mirai,Maserati_GranTurismo,Volvo_C70,bmw 3series,audi s1,Mercedes_AMG_GT
 family#cozy#interior#storage,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
 storage#cozy#sporty,RollsRoyce_Phantom,alfa romeo 147,alpina b6,aston martin virage,Mazda_CX-7,audi s6,Mercedes_A-Class
 mileage#compact#modern,RollsRoyce_Phantom,audi s6,Nissan_370Z,alpina b4,Volvo_S60,chevrolet cruze,Mercedes_R-Class
