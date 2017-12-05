@@ -4,3 +4,4 @@ node_modules
 fdb/
 local_settings.py
 venv/
+*.un

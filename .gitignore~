@@ -1,2 +1,6 @@
 node_modules
-
+*.pyc
+*.swp
+fdb/
+local_settings.py
+venv/

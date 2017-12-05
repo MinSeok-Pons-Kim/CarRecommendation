@@ -40,7 +40,7 @@
         <div class="row">
     {% for category in categories %}
           <div class="col-lg">
-            <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <div class="testimonial-item text-center mx-auto mb-5 mb-lg-0">
                 <h5>{{ category }}</h5>
             </div>
           </div>
@@ -61,7 +61,7 @@
         {% for car in cars %}
           <div class="col-lg-4">
             <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-              <img class="img-fluid rounded-0 mb-3"  src="static/img/car/{{ car }}.jpg" alt="Car image not found" onerror="this.onerror=null;this.src='static/img/car/default.jpg'">
+              <img class="img-fluid rounded-0 mb-3 m-auto"  src="static/img/car/{{ car }}.jpg" alt="Car image not found" onerror="this.onerror=null;this.src='static/img/car/default.jpg'">
               <h5>{{ car }} </h5>
             </div>
           </div>

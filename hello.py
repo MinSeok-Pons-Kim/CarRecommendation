@@ -49,7 +49,16 @@ def show_dream_cars():
 @app.route('/compare_cars/', methods=['POST'])
 def show_other_cars():
     car = request.form['car']
+
     return render_template(url_for('static', filename='recommend_result.csv'), cars=car)
+
+
+
+
+
+
+
+
 
 
 
@@ -159,5 +168,5 @@ def logout():
 
 
 if __name__ == '__main__':
-    app.run()
-# do not append anything herePOST'
+    app.run(host="0.0.0.0", port=int('80'), threaded=True)
+# do not append anything here'

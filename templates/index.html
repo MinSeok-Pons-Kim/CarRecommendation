@@ -150,22 +150,68 @@
       </div>
     </section>
 
+
+
+
     <!-- Call to Action -->
     <section class="call-to-action text-white text-center">
       <div class="overlay"></div>
       <div class="container">
         <div class="row">
           <div class="col-xl-9 mx-auto">
-            <h2 class="mb-4">Already have one in mind? Search similar cars!</h2>
+            <h1 class="mb-5">Already have one in mind? Search similar cars!</h1>
           </div>
           <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
-            <form>
+            <form action="/compare_cars", method="POST">
               <div class="form-row">
                 <div class="col-12 col-md-9 mb-2 mb-md-0">
-                  <input type="email" class="form-control form-control-lg" placeholder="Tell us your dream car! ex)I love kia niro">
+
+                  <div class="dropdown">
+                    <select name="comparison" class="form-control" >
+                        <option value="Toyota_Mirai">Toyota_Mirai</option>
+                        <option value="alfa romeo 147">alfa romeo 147</option>
+                        <option value="Mazda5">Mazda5</option>
+                        <option value="audi s8">audi s8</option>
+                        <option value="Mercedes_CL-Class">Mercedes_CL-Class</option>
+                        <option value="alfa romeo 159">alfa romeo 159</option>
+                        <option value="Nissan_Juke">Nissan_Juke</option>
+                        <option value="Mercedes_S-Class">Mercedes_S-Class</option>
+                        <option value="sudi s1">sudi s1</option>
+                        <option value="Mercedes_SLS_AMG">Mercedes_SLS_AMG</option>
+                        <option value="Mercedes_M-Class">Mercedes_M-Class</option>
+                        <option value="Maserati_GranTurismo">Maserati_GranTurismo</option>
+                        <option value="Volvo_S60">Volvo_S60</option>
+                        <option value="RollsRoyce_Phantom">RollsRoyce_Phantom</option>
+                        <option value="Volvo_C70">Volvo_C70</option>
+                        <option value="audi s6">audi s6</option>
+                        <option value="Mercedes_GL-Class">Mercedes_GL-Class</option>
+                        <option value="Mercedes_E-Class">Mercedes_E-Class</option>
+                        <option value="audi s3">audi s3</option>
+                        <option value="Volkswagen_Golf">Volkswagen_Golf</option>
+                        <option value="Maserati_GranCabrio">Maserati_GranCabrio</option>
+                        <option value="alpina b6">alpina b6</option>
+                        <option value="Nissan_370Z">Nissan_370Z</option>
+                        <option value="abarth 124">abarth 124</option>
+                        <option value="Mazda_CX-7">Mazda_CX-7</option>
+                        <option value="kia niro">kia niro</option>
+                        <option value="audi sq5">audi sq5</option>
+                        <option value="audi rs7">audi rs7</option>
+                        <option value="aston martin virage">aston martin virage</option>
+                        <option value="bmw 3series">bmw 3series</option>
+                        <option value="Mazda3">Mazda3</option>
+                        <option value="jeep wrangler">jeep wrangler</option>
+                        <option value="bentley flying spur">bentley flying spur</option>
+                        <option value="audi a8">audi a8</option>
+                        <option value="Lexus_LC">Lexus_LC</option>
+                        <option value="Nissan_Qashqai+2">Nissan_Qashqai+2</option>
+                        <option value="alpina b4">alpina b4</option>
+                        <option value="jaguar xj">jaguar xj</option>
+                    </select>
+                  </div>
+
                 </div>
                 <div class="col-12 col-md-3">
-                  <button type="submit" class="btn btn-block btn-lg btn-primary">Search!</button>
+                  <button type="submit"  class="btn btn-block btn-lg btn-primary">Search!</button>
                 </div>
               </div>
             </form>
