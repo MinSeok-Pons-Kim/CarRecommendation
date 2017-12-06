@@ -54,10 +54,9 @@ def show_other_cars():
 
     categories = pd.read_csv("static/common_aspect_result.csv")
     categories = categories.loc[categories['Car'] == car]
-
     return render_template('compare_cars.html',
-                            cars=cars.values[0][1:],
-                            categories=categories.values[0][1:],
+                            cars=cars.dropna(axis=1).values[0][1:],
+                            categories=categories.dropna(axis=1).values[0][1:],
                             car=car)
 
 

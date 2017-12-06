@@ -36,6 +36,13 @@
     <section class="testimonials text-center bg-light">
       <div class="container">
           <h2 class="mb-5">Car you selected: {{ car }}</h2>
+          <img class="img-fluid rounded-0 mb-3" src="static/img/car/{{ car }}.jpg">
+      <div> 
+    </section>
+
+    <section class="testimonials text-center bg-white">
+      <div class="container">
+          <h3 class="mb-5">similar cars selected based on categories below:</h3>
         <div class="row">
     {% for category in categories %}
           <div class="col-lg">
@@ -45,6 +52,13 @@
           </div>
     {% endfor %}
         </div>
+      <div> 
+    </section>
+
+    <section class="testimonials text-center bg-light">
+      <div class="container">
+        <h3 class="mb-5"><br>Result comes from car network based on attributes:</h3>
+        <img class="img-fluid rounded-0 mb-3" src="static/img/graph.jpg">
       </div>
     </section>
 
@@ -53,7 +67,6 @@
     <section class="testimonials text-center ">
       <div class="container">
         <h2 class="mb-5">Cars you might want!</h2>
-        <h3 class="mb-5">selected based on categories:</h3>
         <div class="row">
         {% for car in cars %}
           <div class="col-lg-4">
